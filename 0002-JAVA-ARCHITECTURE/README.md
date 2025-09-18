@@ -1,6 +1,6 @@
 # JAVA CODE JOURNEY
 
-![Java Development Kit](/images/September-2025/07-09-2025/java_kit.jpg)
+![Java Development Kit](java_kit.jpg)
 
 Create `HelloWorld.java`:
 
