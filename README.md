@@ -23,11 +23,7 @@ I’m all in — ready to master the language by being its most obedient and cur
 ---
 
 
-Perfect mindset, Charan ✨ — this project is both **personal** and **practical**. Since your goal is to “master Java by being its student,” daily coding is the best way to build fluency.
-
-Here’s how you can structure your project so it’s consistent and grows with you:
-
----
+This project is both **personal** and **practical**. My goal is to “master Java by being its student,” daily coding is the best way to build fluency.
 
 ## 📘 Project Plan: *Java – Mastering it by Being its Student*
 
