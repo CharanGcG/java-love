@@ -4,11 +4,11 @@
 
 Error:
 
-![byte error](/Week-1-JAVA-BASICS/19-09-2025/outputs/images/Byte%20lossy%20error.png)
+![byte error](/Week-1-JAVA-BASICS/19-09-2025-PRIMITIVE-DATA-TYPES/outputs/images/Byte%20lossy%20error.png)
 
 Success:
 
-![byte success](/Week-1-JAVA-BASICS/19-09-2025/outputs/images/Byte%20successful%20execution.png)
+![byte success](/Week-1-JAVA-BASICS/19-09-2025-PRIMITIVE-DATA-TYPES/outputs/images/Byte%20successful%20execution.png)
 
 ---
 
@@ -16,11 +16,11 @@ Success:
 
 Error:
 
-![short error](/Week-1-JAVA-BASICS/19-09-2025/outputs/images/Short%20lossy%20error.png)
+![short error](/Week-1-JAVA-BASICS/19-09-2025-PRIMITIVE-DATA-TYPES/outputs/images/Short%20lossy%20error.png)
 
 Success:
 
-![short success](/Week-1-JAVA-BASICS/19-09-2025/outputs/images/Short%20successful%20execution.png)
+![short success](/Week-1-JAVA-BASICS/19-09-2025-PRIMITIVE-DATA-TYPES/outputs/images/Short%20successful%20execution.png)
 
 ---
 
@@ -28,11 +28,11 @@ Success:
 
 Error:
 
-![int error](/Week-1-JAVA-BASICS/19-09-2025/outputs/images/Int%20value%20too%20long%20error.png)
+![int error](/Week-1-JAVA-BASICS/19-09-2025-PRIMITIVE-DATA-TYPES/outputs/images/Int%20value%20too%20long%20error.png)
 
 Success:
 
-![int success](/Week-1-JAVA-BASICS/19-09-2025/outputs/images/Int%20successful%20execution.png)
+![int success](/Week-1-JAVA-BASICS/19-09-2025-PRIMITIVE-DATA-TYPES/outputs/images/Int%20successful%20execution.png)
 
 ---
 
@@ -40,11 +40,11 @@ Success:
 
 Error:
 
-![long error](/Week-1-JAVA-BASICS/19-09-2025/outputs/images/Long%20lossy%20error.png)
+![long error](/Week-1-JAVA-BASICS/19-09-2025-PRIMITIVE-DATA-TYPES/outputs/images/Long%20lossy%20error.png)
 
 Success:
 
-![long success](/Week-1-JAVA-BASICS/19-09-2025/outputs/images/Long%20successful%20execution.png)
+![long success](/Week-1-JAVA-BASICS/19-09-2025-PRIMITIVE-DATA-TYPES/outputs/images/Long%20successful%20execution.png)
 
 ---
 
@@ -52,11 +52,11 @@ Success:
 
 Error:
 
-![float error](/Week-1-JAVA-BASICS/19-09-2025/outputs/images/Float%20too%20large%20error.png)
+![float error](/Week-1-JAVA-BASICS/19-09-2025-PRIMITIVE-DATA-TYPES/outputs/images/Float%20too%20large%20error.png)
 
 Success:
 
-![float success](/Week-1-JAVA-BASICS/19-09-2025/outputs/images/Float%20successful%20execution.png)
+![float success](/Week-1-JAVA-BASICS/19-09-2025-PRIMITIVE-DATA-TYPES/outputs/images/Float%20successful%20execution.png)
 
 ---
 
@@ -64,11 +64,11 @@ Success:
 
 Error:
 
-![double error](/Week-1-JAVA-BASICS/19-09-2025/outputs/images/Double%20too%20large%20error.png)
+![double error](/Week-1-JAVA-BASICS/19-09-2025-PRIMITIVE-DATA-TYPES/outputs/images/Double%20too%20large%20error.png)
 
 Success:
 
-![double success](/Week-1-JAVA-BASICS/19-09-2025/outputs/images/Double%20successful%20execution.png)
+![double success](/Week-1-JAVA-BASICS/19-09-2025-PRIMITIVE-DATA-TYPES/outputs/images/Double%20successful%20execution.png)
 
 ---
 
@@ -76,7 +76,7 @@ Success:
 
 Success:
 
-![char success](/Week-1-JAVA-BASICS/19-09-2025/outputs/images/Char%20successful%20execution.png)
+![char success](/Week-1-JAVA-BASICS/19-09-2025-PRIMITIVE-DATA-TYPES/outputs/images/Char%20successful%20execution.png)
 
 ---
 
@@ -84,7 +84,7 @@ Success:
 
 Success:
 
-![boolean success](/Week-1-JAVA-BASICS/19-09-2025/outputs/images/Boolean%20successful%20execution.png)
+![boolean success](/Week-1-JAVA-BASICS/19-09-2025-PRIMITIVE-DATA-TYPES/outputs/images/Boolean%20successful%20execution.png)
 
 ---
 
