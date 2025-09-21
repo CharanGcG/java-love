@@ -48,3 +48,9 @@
 
 ---
 
+## 9. Aggregate stream implementation: 
+
+![toString output](/Week-1-JAVA-BASICS/21-09-2025-ARRAY-METHODS/outputs/images/aggregate%20stream%20output.png)
+
+---
+

@@ -17,5 +17,12 @@ public class ArrayMinMaxSumAvg {
         double avg = (double) sum / numbers.length; // Explicit type casting required
 
         System.out.println("Aggregrate functions custom: \nMaximum: " + maxi + "\nMinimum: " + mini + "\nSum: " + sum + "\nAverage: " + avg);
+
+        maxi = Arrays.stream(numbers).max().orElse(-1);
+        mini = Arrays.stream(numbers).min().orElse(-1);
+        sum = Arrays.stream(numbers).sum();
+        avg = Arrays.stream(numbers).average().orElse(-1);
+        System.out.println("Aggregrate functions Stream: \nMaximum: " + maxi + "\nMinimum: " + mini + "\nSum: " + sum + "\nAverage: " + avg);
+
     }
 }
