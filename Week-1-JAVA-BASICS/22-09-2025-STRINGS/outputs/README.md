@@ -12,3 +12,9 @@
 
 ---
 
+## 3. String methods
+
+![string methods output](/Week-1-JAVA-BASICS/22-09-2025-STRINGS/outputs/images/string%20methods.png)
+
+---
+
