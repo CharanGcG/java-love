@@ -37,6 +37,10 @@ String obj2 = new String("Java"); // obj1 and obj2 refer to different objects in
 
 ***
 
+## String Pool:
+
+![String pool image](/Week-1-JAVA-BASICS/22-09-2025-STRINGS/outputs/images/string%20pool%20explanation.png)
+
 ## Key Differences
 
 | Feature             | String Literal                                | String Object (using `new`)        |
