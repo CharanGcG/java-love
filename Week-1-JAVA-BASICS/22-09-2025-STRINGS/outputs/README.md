@@ -18,3 +18,8 @@
 
 ---
 
+## 4. String Builder methods
+
+![String builder output](/Week-1-JAVA-BASICS/22-09-2025-STRINGS/outputs/images/string%20builder%20output.png)
+
+---
