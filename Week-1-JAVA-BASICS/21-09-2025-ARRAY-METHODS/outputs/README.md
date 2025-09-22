@@ -1,4 +1,4 @@
-### Outputs - Array methods
+# Outputs - Array methods
 
 ## 1. Arrays.toString(arr) : 
 

@@ -1,4 +1,4 @@
-### Outputs - Strings
+# Outputs - Strings
 
 ## 1. String pool
 

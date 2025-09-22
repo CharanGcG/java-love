@@ -1,4 +1,4 @@
-### Outputs - PRIMITIVE DATA TYPES
+# Outputs - PRIMITIVE DATA TYPES
 
 ## 1. byte:
 

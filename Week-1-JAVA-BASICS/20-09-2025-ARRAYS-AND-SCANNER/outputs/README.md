@@ -1,4 +1,4 @@
-### Outputs - ARRAYS
+# Outputs - ARRAYS
 
 ## ERRORS - Wrong type of initializations:
 

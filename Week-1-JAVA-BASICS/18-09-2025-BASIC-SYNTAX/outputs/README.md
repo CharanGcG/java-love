@@ -1,4 +1,4 @@
-### Outputs - BASICS
+# Outputs - BASICS
 
 ## Favorite Programming Language
 
