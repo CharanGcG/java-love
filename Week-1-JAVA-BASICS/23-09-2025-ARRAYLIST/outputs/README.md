@@ -8,7 +8,7 @@
 
 ## 2. Friends List output
 
-![Friends output](/Week-1-JAVA-BASICS/23-09-2025-ARRAYLIST/outputs/images/Friends%20List.png)
+![Friends output](/Week-1-JAVA-BASICS/23-09-2025-ARRAYLIST/outputs/images/Friends%20List%20program.png)
 
 ---
 
